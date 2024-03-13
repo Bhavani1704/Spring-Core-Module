@@ -2,7 +2,7 @@ package com.bhavani.model;
 
 import lombok.Data;
 
-@Data // gives setters,getters,toString,equals but i added manually here
+//@Data // gives setters,getters,toString,equals but i added manually here
 public class Employee {
 	
 	private Integer empno;
